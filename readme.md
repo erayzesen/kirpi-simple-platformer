@@ -1,4 +1,8 @@
-It's a template prepared for working with the [kirpi](https://github.com/erayzesen/kirpi) framework, featuring cross-platform configurations.
+An educational **simple platformer game** written using the [kirpi framework](https://github.com/erayzesen/kirpi).
+
+![alt text](media/gameplay.gif)
+
+[PLAY ON WEB](https://erayzesen.github.io/kirpi-simple-platformer/)
 
 # For Beginners in Nim
 
