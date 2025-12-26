@@ -1,4 +1,6 @@
 nimble.develop
 nimble.paths
-releases/
-
+releases/linux
+releases/windows
+releases/macos
+releases/android
